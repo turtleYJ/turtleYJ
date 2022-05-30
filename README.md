@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# :wrench: Skill
+## :wrench: Skill
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
-# :dart: Target Skill
+## :dart: Target Skill
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yooil405)](https://solved.ac/yooil405)
 
