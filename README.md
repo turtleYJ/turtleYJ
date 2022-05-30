@@ -36,11 +36,10 @@ Here are some ideas to get you started:
 
 <!-- ## :dart: Target Skill -->
 
-## 
+## Commit Status
 ![yooil-405's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooil-405&show_icons=true&theme=synthwave)  
 
 ## Algorithm Progress
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yooil405)](https://solved.ac/yooil405)
 
 
