@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## :wrench: Skill
 <b>Backend</b>
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/SPRING MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/SPRING MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"><img src="https://img.shields.io/badge/JUNIT5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
 
 
 ## :dart: Target Skill
