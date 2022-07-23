@@ -40,6 +40,11 @@ Here are some ideas to get you started:
 ![turtleYJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=turtleYJ&show_icons=true&theme=synthwave)  
 
 ## Algorithm Progress
+- 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yooil405)](https://solved.ac/yooil405)
+
+- 프로그래머스
+  - LV1 All Solve
+  - 현재 LV2 All Solve를 목표로 풀이중입니다.
 
 
