@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 ## Algorithm Progress
 - 백준
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yooil405)](https://solved.ac/yooil405)
 
 - 프로그래머스
