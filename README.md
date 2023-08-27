@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   - 현재 LV2 All Solve를 목표로 풀이중입니다.
 
 
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
+![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turtleYJ&layout=compact)
 
 
 
