@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!-- ## :dart: Target Skill -->
 
 ## Commit Status
-![turtleYJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=turtleYJ&show_icons=true&theme=synthwave)  
+![turtleYJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=turtleYJ&show_icons=true&theme=synthwave) ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turtleYJ&layout=compact)
 
 ## Algorithm Progress
 - 백준
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   - 현재 LV2 All Solve를 목표로 풀이중입니다.
 
 
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turtleYJ&layout=compact)
+
 
 
 
