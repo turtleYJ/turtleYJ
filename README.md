@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!-- ## :dart: Target Skill -->
 
 ## Commit Status
-![turtleYJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=turtleYJ&show_icons=true&theme=synthwave)      
+![turtleYJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=turtleYJ&show_icons=true&theme=synthwave)
 
 ## Most used language
 ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turtleYJ&layout=compact)
