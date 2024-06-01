@@ -15,14 +15,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 👨‍💻 About Me
+I am Yooeil Jung, a passionate backend developer with experience in PHP and Java-based technologies. I am currently working at Mailplug, where I focus on enhancing user experience and optimizing backend performance. I am enthusiastic about learning new technologies and constantly improving my skills.
+
+## 🔭 I’m currently working on
+- Developing and optimizing Restful APIs for contact services at Mailplug.
+- Implementing caching strategies to enhance data retrieval speed.
+- Managing large-scale data processing using RabbitMQ and CodeIgniter.
+
+## 🌱 I’m currently learning
+- Advanced Spring Boot and microservices architecture.
+- Exploring Python for backend development.
+- Deepening my understanding of cloud infrastructure and DevOps practices.
+
+## 👯 I’m looking to collaborate on
+- Open-source projects that involve backend development and API optimization.
+- Projects that require robust and scalable backend solutions.
+
+## 💬 Ask me about
+- Backend development with PHP and Java.
+- Restful API design and implementation.
+- Caching strategies and performance optimization.
+- Handling large-scale data processing.
+
+## ⚡ Fun fact
+- I have a background in chemical engineering and have transitioned into software development, bringing a unique problem-solving perspective to my work.
+
+
 ## :wrench: Skill
 <b>Backend</b>
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/SPRING MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"><img src="https://img.shields.io/badge/JUNIT5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/SPRING MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"><img src="https://img.shields.io/badge/JUNIT5-25A162?style=for-the-badge&logo=junit5&logoColor=white"><br><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
 
 <b>DevOps</b>
 
-<img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white">
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"><br><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white"><img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"><br><img src="https://img.shields.io/badge/Unix-2C2255?style=for-the-badge&logo=unix&logoColor=white">
 
 <b>Frontend</b>
 
@@ -30,7 +57,8 @@ Here are some ideas to get you started:
 
 <b>Collaboration</b>
 
-<img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/CONFLUENCE-172B4D?style=for-the-badge&logo=confluence&logoColor=white"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/GitHub PR-181717?style=for-the-badge&logo=github&logoColor=white">
+
 
 
 
