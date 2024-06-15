@@ -61,7 +61,7 @@ I am Yooeil Jung, a passionate backend developer with experience in PHP and Java
 ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turtleYJ&layout=compact)
 
 ## :bar_chart: WakaTime Stats
-[![turtleYJ's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=turtleYJ)](https://github.com/anuraghazra/github-readme-stats)
+[![turtleYJ's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=turtleYJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Algorithm Progress
 - 백준
