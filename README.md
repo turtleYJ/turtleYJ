@@ -60,6 +60,9 @@ I am Yooeil Jung, a passionate backend developer with experience in PHP and Java
 ## :chart_with_upwards_trend: Most used language
 ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turtleYJ&layout=compact)
 
+## :bar_chart: WakaTime Stats
+[![turtleYJ's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=turtleYJ)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Algorithm Progress
 - 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yooil405)](https://solved.ac/yooil405)
