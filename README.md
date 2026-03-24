@@ -64,7 +64,7 @@
 - **Notion MCP Server:** Claude Code ↔ Notion API 연동, 마크다운 ↔ Notion 블록 자동 변환
 - **기술:** Python (FastMCP), TypeScript (@modelcontextprotocol/sdk)
 
-### 실무 프로젝트 (메일플러그)
+### 실무 프로젝트
 
 - **FileFree 마이그레이션:** PHP(CI3) → Spring Boot 3.x 전환, Claude Code 활용 79% 시간 단축
 - **API Gateway:** Slim 4 + HMAC 인증, TDD 기반 7,120+ 라인 테스트 코드
